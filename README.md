@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Planejador de Viagens** é uma aplicação web simples que permite aos usuários gerenciar suas viagens de forma fácil e organizada. O aplicativo segue o CRUD e permite adicionar, visualizar, atualizar e deletar informações sobre diferentes viagens, como destino, datas, orçamento, hospedagem e passeios planejados. A interface é responsiva e tem um design moderno inspirado no estilo do Airbnb.
+O **Planejador de Viagens** é uma aplicação web simples que permite aos usuários gerenciar suas viagens de forma fácil e organizada. O aplicativo segue o CRUD e permite adicionar, visualizar, atualizar e deletar informações sobre diferentes viagens, como destino, datas, orçamento, hospedagem e passeios planejados.
 
 ![image](https://github.com/user-attachments/assets/ff09d212-7d75-47de-8ebd-9171c39889a6)
 
