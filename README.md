@@ -32,7 +32,7 @@ Para executar este projeto localmente, siga as etapas abaixo:
 2. **Navegue até o diretório do projeto:**:
    ```bash
    cd crud-planej-viagem
-3. **Abra o arquivo index.html no seu navegador.""
+3. **Abra o arquivo index.html no seu navegador.**
 
 ## Como Usar
 - Ao abrir o aplicativo, você verá o título "Planejador de Viagens" e um menu de opções.
